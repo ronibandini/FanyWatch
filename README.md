@@ -7,9 +7,10 @@ Electromagnetic hypersensitivity (EHS)  is a claimed sensitivity to electromagne
 Just for experimental reasons and knowing perfectly that Electromagnetic hypersensitivity is not an accepted diagnosis confirmed by science, I’ve made an EHS WiFi Scanner. The ESP8266 watch scans WiFi signals in the environment to generate a “damage ranking” based on RSSI signal strength. 
 
 Parts used for this project:
+
 Heltec WiFi Kit 8 with integrated Oled https://amzn.to/3qQS6uw 
 The 3.7 battery from an old disposable e-Cig.
-Custom made case, available at Thingiverse
+Custom made case, available at Thingiverse https://www.thingiverse.com/thing:4683640 
 23mm wristwatch strap 
 
 Just upload the code to the ESP8266 Heltec, connect the charged battery to GND and VIN and you are done
